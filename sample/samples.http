@@ -8,6 +8,6 @@ POST http://0.0.0.0:8080/language
 Content-Type: application/json
 Accept: application/json
 
-{"language": "C++"}
+{"language": "JavaScript"}
 
 ###
